@@ -1,0 +1,3 @@
+C:/Users/sabri/CLionProjects/AlgorithmHW/cmake-build-debug/CMakeFiles/AlgorithmHW.dir
+C:/Users/sabri/CLionProjects/AlgorithmHW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sabri/CLionProjects/AlgorithmHW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
